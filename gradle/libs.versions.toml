@@ -1,5 +1,5 @@
 [versions]
-marvellous = "3.0.3"
+marvellous = "3.4.3"
 
 [libraries]
 marvellous = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "marvellous" }
